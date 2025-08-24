@@ -10,7 +10,7 @@ Pre requisites are :-
 
 - Clone this Package in your workspace (Other than that of the Husarion workspace)
   ```bash
-  git clone https://github.com/ArpitKrSingh7/final_simulation.git .
+  git clone https://github.com/ArpitKrSingh7/final_simulation.git
   ```
 
 Now as you already have cloned this package just enter `colcon build` and done.
