@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "ZigKick_Hoops"
+description: "ZigKick Hoops\nFootwear"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Reebok"
+}
+annotations {
+  key: "mpn"
+  value: "v47016"
+}
+annotations {
+  key: "sku"
+  value: "V47016"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Shoe"
+}

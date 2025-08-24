@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>sim_worlds_ercremote_pkg</name>
+  <version>0.1.0</version>
+  <description>ERC Finals</description>
+  <maintainer email="arpitkumarsingh9470@gmail.com"> Github</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>ros_gz_sim</depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
