@@ -79,7 +79,7 @@
     </include>
     <include>
       <uri>model://aruco_pole_textures/aruco_pole_7</uri>
-      <pose>11.99 22.33 0.57 0 0 0.09</pose>
+      <pose>11.99 22.33 0.37 0 0 0.09</pose>
     </include>
     <include>
       <uri>model://aruco_pole_textures/aruco_pole_8</uri>
